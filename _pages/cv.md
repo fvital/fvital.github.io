@@ -27,6 +27,7 @@ Experience
   * Improved efficiency of commercial electric trucks by coordinating battery, regulation and parking constraints;
   * Developed dynamic pricing mechanisms to coordinate truck parking demand and alleviate parking shortages.
   * Other projects included developing a cooperative lane-changing driver model with safety spacing calculation, and developing traffic simulation models for traffic control.
+  * Supervisor: Prof. Petros Ioannou
 
 
 * 8/2016 - 05/2019: Teaching Assistant
