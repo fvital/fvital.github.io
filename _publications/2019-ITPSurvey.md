@@ -1,7 +1,7 @@
 ---
 title: "Survey on Intelligent Truck Parking: Issues and Approaches"
 collection: publications
-permalink: /publications/2019-ITPSurvey
+permalink: /publications/2019-ITPSurvey/
 excerpt: 'The truck industry transports most of the shipments in the USA. Nevertheless, the available parking infrastructure is considerably below the industry needs. The combination of parking shortage and scarcity of timely availability information hinders accurate trip planning, leading to unexpected situations
 and pushing drivers to park in illegal and potentially dangerous locations or to drive beyond the legal
 time limit. While there have been considerable efforts and technology developments in smart parking
