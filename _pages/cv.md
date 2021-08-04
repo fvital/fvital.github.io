@@ -18,7 +18,7 @@ Education
 
 Experience
 ======
-* 8/2016-current: Research Assistant
+* 8/2016 - current: Research Assistant
   * USC's Center for Advanced Transportation Technologies, Los Angeles, CA
   * Responsible for design and implementation of algorithms, writing of proposals, reports and scientific publications, and managing projects from start to finish. Most research projects focused on improving routing and scheduling methods for long-haul trucking.
   * Wrote 3 accepted proposals and 5 papers accepted in major conferences and journals.
@@ -29,7 +29,7 @@ Experience
   * Other projects included developing a cooperative lane-changing driver model with safety spacing calculation, and developing traffic simulation models for traffic control.
 
 
-* 8/2016-05/2019: Teaching Assistant
+* 8/2016 - 05/2019: Teaching Assistant
   * University of Southern California, Los Angeles, CA
   * Prepared lessons and lab experiments according to course outline to convey all required material and deepen student understanding of subject matter.
   * Mentored students through office hours and one-on-one communication.
@@ -47,16 +47,6 @@ Experience
   * Universidade Federal Do Rio De Janeiro, Rio De Janeiro, Brazil
   * Developed computer vision algorithm for automated inspection of submerged pipelines;
   * Used Hough transform and Canny edge detector variant to identify pipeline in inspection videos and DCT-based texture analysis to identify damaged sections.
-<!--
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
 
 Skills
 ======
@@ -66,13 +56,7 @@ Skills
   * Python (NumPy, Pandas, NetworkX, PyTorch, unittest)
   * C++ (Armadillo, GoogleTest, CMake)
   * SQL, LaTex
-* Software: MATLAB, LabVIEW, VISSIM, CPLEX, Git, GIS, ROS.
-<!-- * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Software: MATLAB, LabVIEW, VISSIM, CPLEX, Git, GIS, ROS
 
 Publications
 ======
